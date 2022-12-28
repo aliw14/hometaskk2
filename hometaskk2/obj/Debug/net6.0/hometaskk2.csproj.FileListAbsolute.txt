@@ -1,0 +1,15 @@
+/Users/ali/Projects/hometaskk2/hometaskk2/bin/Debug/net6.0/hometaskk2
+/Users/ali/Projects/hometaskk2/hometaskk2/bin/Debug/net6.0/hometaskk2.deps.json
+/Users/ali/Projects/hometaskk2/hometaskk2/bin/Debug/net6.0/hometaskk2.runtimeconfig.json
+/Users/ali/Projects/hometaskk2/hometaskk2/bin/Debug/net6.0/hometaskk2.dll
+/Users/ali/Projects/hometaskk2/hometaskk2/bin/Debug/net6.0/hometaskk2.pdb
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.csproj.AssemblyReference.cache
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.AssemblyInfoInputs.cache
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.AssemblyInfo.cs
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.dll
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/refint/hometaskk2.dll
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.pdb
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/hometaskk2.genruntimeconfig.cache
+/Users/ali/Projects/hometaskk2/hometaskk2/obj/Debug/net6.0/ref/hometaskk2.dll
